@@ -7,7 +7,7 @@ Os arquivos estão organizados em pastas de acordo com os temas abordados nas au
 
 ## 📌 Projetos
 
-### 🔹 App de Idade  
+### 🔹 [App de Idade](https://github.com/Dellano23/ProjetosAulaFiap/tree/main/MinhaIdade/MinhaIdade)  
 Aplicativo desenvolvido em **Jetpack Compose** que permite ao usuário selecionar sua idade e exibe dinamicamente uma mensagem informando se ele é **maior ou menor de idade**.  
 
 **Funcionalidades:**  
